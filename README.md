@@ -44,15 +44,13 @@ Deskripsi singkat mengenai proyek Anda di sini. Jelaskan apa tujuan dari bot Dis
 
 2. **Konfigurasi:**
    - Buat file `token.txt` dan masukkan token bot Discord Anda.
+   - Buat file `pesan.txt` dan masukkan kata kata yang anda inginkan
 
 3. **Menjalankan Bot:**
    - Jalankan script bot menggunakan Python:
      ```bash
      python bot.py
      ```
-
-4. **Panduan Tambahan:**
-   - Langkah-langkah tambahan atau instruksi penggunaan jika diperlukan.
 
 ## Kontribusi
 
