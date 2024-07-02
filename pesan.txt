@@ -1,0 +1,4 @@
+Halo, ini pesan pertama.
+Ini adalah pesan kedua.
+Pesan ketiga untuk discord.
+Selamat datang di channel ini!
